@@ -15,7 +15,7 @@ public class MainTest {
     private static final String MAIN_PATH = String.join(File.separator, USER_DIR, "src", "main", "resources");
 
     @Test
-    public void basicServersLoad01() {
+    public void normalServersLoad01() {
         String filePath = prepareFilePath("01-servers-normal-load", "servers_01");
         emptyOutput(prepareFilePath("01-servers-normal-load", ""));
         Main.main(new String[]{PathTypes.SERVERS.getValue(), filePath});
@@ -23,7 +23,7 @@ public class MainTest {
     }
 
     @Test
-    public void basicServersLoad02() {
+    public void brokenServersLoad02() {
         String filePath = prepareFilePath("02-servers-broken-load", "servers_02");
         emptyOutput(prepareFilePath("02-servers-broken-load", ""));
         Main.main(new String[]{PathTypes.SERVERS.getValue(), filePath});
@@ -31,7 +31,7 @@ public class MainTest {
     }
 
     @Test
-    public void basicResourceGroupsLoad03() {
+    public void normalResourceGroupsLoad03() {
         String filePath = prepareFilePath("03-resource-groups-normal-load", "groups_01");
         emptyOutput(prepareFilePath("03-resource-groups-normal-load", ""));
         Main.main(new String[]{PathTypes.GROUPS.getValue(), filePath});
@@ -39,7 +39,7 @@ public class MainTest {
     }
 
     @Test
-    public void basicResourceGroupsLoad04() {
+    public void brokenResourceGroupsLoad04() {
         String filePath = prepareFilePath("04-resource-groups-broken-load", "groups_02");
         emptyOutput(prepareFilePath("04-resource-groups-broken-load", ""));
         Main.main(new String[]{PathTypes.GROUPS.getValue(), filePath});
@@ -47,7 +47,7 @@ public class MainTest {
     }
 
     @Test
-    public void eventsLoad05() {
+    public void listenersLoad05() {
         String filePath01 = prepareFilePath("05-listeners", "servers_03");
         String filePath02 = prepareFilePath("05-listeners", "groups_03");
         String filePath03 = prepareFilePath("05-listeners", "listeners_01");
