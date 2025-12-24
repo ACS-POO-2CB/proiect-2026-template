@@ -66,7 +66,7 @@ jobs:
       env:
         SERVERS-NORMAL-LOAD-01_RESULTS: "${{steps.servers-normal-load-01.outputs.result}}"
         SERVERS-BROKEN-LOAD-02_RESULTS: "${{steps.servers-broken-load-02.outputs.result}}"
-        RESOURCE-GROUPS-NORAML-LOAD-03_RESULTS: "${{steps.resource-groups-normal-load-03.outputs.result}}"
+        RESOURCE-GROUPS-NORMAL-LOAD-03_RESULTS: "${{steps.resource-groups-normal-load-03.outputs.result}}"
         RESOURCE-GROUPS-BROKEN-LOAD-04_RESULTS: "${{steps.resource-groups-broken-load-04.outputs.result}}"
         LISTENERS-LOAD-05_RESULTS: "${{steps.listeners-load-05.outputs.result}}"
       with:
