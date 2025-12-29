@@ -53,6 +53,8 @@ public class MainTest {
         String filePath03 = prepareFilePath("05-listeners", "listeners_01");
         emptyOutput(prepareFilePath("05-listeners", ""));
         Main.main(new String[]{PathTypes.LISTENER.getValue(), filePath01, filePath02, filePath03});
+        assertTrue(areFilesEqual(filePath01));
+        assertTrue(areFilesEqual(filePath02));
         assertTrue(areFilesEqual(filePath03));
     }
 
