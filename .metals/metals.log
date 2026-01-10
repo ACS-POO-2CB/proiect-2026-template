@@ -1,0 +1,504 @@
+2026.01.10 16:12:08 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template' for client Visual Studio Code 1.108.0.
+2026.01.10 16:12:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.10 16:12:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:12:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:13:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:13:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:13:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:13:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:13:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:13:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:14:03 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:14:03 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:14:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:14:57 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java
+2026.01.10 16:14:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:14:58 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java
+2026.01.10 16:14:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:14:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:14:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:17:13 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:13 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:16 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java
+2026.01.10 16:17:16 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:17 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:24 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java
+2026.01.10 16:17:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:36 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java
+2026.01.10 16:17:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:43 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java
+2026.01.10 16:17:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:17:53 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java
+2026.01.10 16:17:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:17:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:17:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:17:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:17:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:04 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java
+2026.01.10 16:18:04 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:04 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:04 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:04 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:05 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java
+2026.01.10 16:18:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:12 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java
+2026.01.10 16:18:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:20 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java
+2026.01.10 16:18:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:22 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:23 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:24 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java
+2026.01.10 16:18:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Severity.java. Using fallback presentation compiler.
+2026.01.10 16:18:26 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java
+2026.01.10 16:18:26 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:26 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:26 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\AlertType.java. Using fallback presentation compiler.
+2026.01.10 16:18:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\PathTypes.java. Using fallback presentation compiler.
+2026.01.10 16:18:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:18:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:18:47 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java
+2026.01.10 16:18:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:18:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:18:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:18:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ServerStatus.java. Using fallback presentation compiler.
+2026.01.10 16:19:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:11 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java
+2026.01.10 16:19:11 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:19:40 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:40 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:55 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java
+2026.01.10 16:19:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:58 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java
+2026.01.10 16:19:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:19:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:08 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java
+2026.01.10 16:20:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:27 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java
+2026.01.10 16:20:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:20:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:11 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:11 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:13 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java
+2026.01.10 16:21:13 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:21:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:37 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java
+2026.01.10 16:21:37 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:37 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:37 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:37 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:40 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:47 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:21:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:35 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java
+2026.01.10 16:22:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:22:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:16 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:16 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:16 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:17 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:19 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:19 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:21 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:23:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:24:17 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:24:17 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:24:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:24:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:24:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:31 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java
+2026.01.10 16:24:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:33 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:33 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:34 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:34 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:34 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+Jan 10, 2026 4:24:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 383
+2026.01.10 16:24:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:54 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java
+2026.01.10 16:24:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:24:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+Jan 10, 2026 4:25:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 412
+2026.01.10 16:25:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:19 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:19 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:21 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:21 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:22 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:33 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Server.java. Using fallback presentation compiler.
+2026.01.10 16:25:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:25:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:25:40 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:45 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:26:45 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:27:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:28:06 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java
+2026.01.10 16:28:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:28:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:28:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:28:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Location.java. Using fallback presentation compiler.
+2026.01.10 16:28:08 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Admin.java. Using fallback presentation compiler.
+2026.01.10 16:28:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Operator.java. Using fallback presentation compiler.
+2026.01.10 16:28:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\User.java. Using fallback presentation compiler.
+2026.01.10 16:28:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:28 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:35 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java
+2026.01.10 16:28:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:43 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java
+2026.01.10 16:28:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:49 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java
+2026.01.10 16:28:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:49 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\ResourceGroup.java. Using fallback presentation compiler.
+2026.01.10 16:28:51 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:51 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:59 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java
+2026.01.10 16:28:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:28:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:29:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:29:05 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\model\Alert.java. Using fallback presentation compiler.
+2026.01.10 16:29:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:18 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:50 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java
+2026.01.10 16:29:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:51 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:53 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:29:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:00 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:29 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:34 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:34 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:46 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:46 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:55 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:30:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:31:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:31:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:31:12 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:31:15 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\repository\Database.java. Using fallback presentation compiler.
+2026.01.10 16:38:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:38:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:38:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:38:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:39:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:39:41 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\test\java\MainTest.java. Using fallback presentation compiler.
+2026.01.10 16:39:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:39:54 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:39:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:20 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:21 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:23 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:24 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:31 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:38 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:48 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:48 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:48 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:48 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:51 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:50 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:52 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:56 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java
+2026.01.10 16:40:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:56 WARN  Running javac-semanticdb failed for file:///C:/Users/George/Desktop/proiectPOO/proiect_update/proiect-2026-template/src/main/java/org/example/util/InputLoader.java. Output:
+
+2026.01.10 16:40:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:57 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:40:59 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:01 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:02 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:02 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:06 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java
+2026.01.10 16:41:06 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:07 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:43 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java
+2026.01.10 16:41:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:44 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:41:43 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:47:14 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java
+2026.01.10 16:47:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:47:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:47:14 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:47:27 INFO  Shutting down server
+2026.01.10 16:47:27 INFO  shutting down Metals
+2026.01.10 16:47:27 INFO  Exiting server
+2026.01.10 16:47:27 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.lang.Thread.run(Thread.java:1447)
+
+2026.01.10 16:48:07 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template' for client Visual Studio Code 1.108.0.
+2026.01.10 16:48:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.10 16:48:09 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:10 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:15 WARN  no build target for: C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java
+2026.01.10 16:48:15 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:17 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:25 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+Jan 10, 2026 4:48:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Jan 10, 2026 4:48:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Jan 10, 2026 4:48:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.01.10 16:48:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:27 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:30 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:32 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:33 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:35 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:36 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:48:42 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:51:37 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:51:39 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:51:56 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
+2026.01.10 16:51:58 INFO  no build target found for C:\Users\George\Desktop\proiectPOO\proiect_update\proiect-2026-template\src\main\java\org\example\util\InputLoader.java. Using fallback presentation compiler.
