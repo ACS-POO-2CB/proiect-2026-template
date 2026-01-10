@@ -46,7 +46,7 @@ public class InputLoader {
             for (int i=0; i<headers.length; i++) headers[i] = headers[i].trim();
 
             String line;
-            int lineNumber = 1; // Header is line 1?
+            int lineNumber = 0; // Header is line 1?
             // "## line no: <lineNumber>"
             // Usually line number refers to the data line in the file.
             // If header is line 1, first data row is line 2.
